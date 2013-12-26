@@ -1,4 +1,4 @@
 VendingMachine
 ==============
 
-A sample application for use in technical interviews
+**INACTIVE** - A sample application for use in technical interviews
